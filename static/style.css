@@ -1,0 +1,26 @@
+.jumbotron{
+    background-color: bisque;
+}
+
+.original_title{
+    background-color: rgb(255, 189, 67);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.summary_title{
+    background-color: rgb(120, 199, 0);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.srt{
+    display: flex;
+    flex-direction: row;
+}
