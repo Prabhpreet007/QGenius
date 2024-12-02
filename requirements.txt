@@ -4,3 +4,6 @@ Werkzeug==2.2.2
 scikit-learn==1.4.2
 numpy==1.23.5
 spacy==3.5.1
+
+# spaCy language model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.1/en_core_web_sm-3.5.1.tar.gz
